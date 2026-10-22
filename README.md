@@ -1,3 +1,5 @@
+<cursor_untrusted_data_1337 source="CallDynamicTool">
+
 # YT-DL Bar
 
 YT-DL Bar is a macOS 27 menu bar app for saving a video or its audio from a link. The download is done by yt-dlp.
@@ -12,6 +14,9 @@ The app does not show a Dock icon.
 
 ## License
 
-[MIT](LICENSE)
+[PolyForm Noncommercial 1.0.0](LICENSE). Free to use, share and modify with credit, but not for commercial use.
 
 Copyright (c) 2026 Luke Henderson
+
+
+</cursor_untrusted_data_1337>
